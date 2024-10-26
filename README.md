@@ -4,7 +4,7 @@
 
 
 ## Basic Details
-### Team Name: Use_Me
+### Team Name: Use-Me
 
 
 ### Team Members
