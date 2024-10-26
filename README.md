@@ -1,32 +1,35 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [RouteRodeo] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [UseMe]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Anaya] - [SCMS School of Engineering and Technology]
+- Member 2: [Anandhu] - [SCMS School of Engineering and Technology]
+- Member 3: [Amrutha] - [SCMS School of Engineering and Technology]
 
 ### Project Description
-[2-3 lines about what your project does]
+[The website will utilize the device's GPS capabilities to determine the user's current location and then display a straight line to a specified destination on a map. This approach simplifies navigation by eliminating the need for turn-by-turn directions.
+other Features:
+Menu bar: Run, Pause, Restart, Speed Controller
+A car moves along the straight line
+There is a useless compass, useless zoom in and out]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Find the shortest distance from one place to another
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
+The shortest distance is displacement, that is a straight line.
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [Html, css, javascript]
 - [Frameworks used]
-- [Libraries used]
+- [Leaflet]
 - [Tools used]
 
 For Hardware:
